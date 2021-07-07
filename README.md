@@ -1,6 +1,6 @@
-### Olá!!!
+### Olá, sou o Gabriel Nardelli!!!
 
-Sou aluno de graduação do curso de Física Médica procurando oportunidades para desenvolver projetos na área de otimização.
+Aluno de graduação do curso de Física Médica procurando oportunidades para desenvolver projetos na área de otimização.
 
 - 💻 Atualmente trabalho na área de otimização de modelos de programação linear
 - 🪐 Estou fazendo cursos na área de Análise de Dados
