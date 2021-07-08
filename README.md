@@ -1,9 +1,9 @@
 ### Olá, sou o Gabriel Nardelli!!!
 
-Aluno de graduação do curso de Física Médica procurando oportunidades para desenvolver projetos na área de otimização.
+Aluno de graduação do curso de Física Médica procurando oportunidades para desenvolver projetos na área de Machine Learning e Data Science.
 
-- 💻 Atualmente trabalho na área de otimização de modelos de programação linear
-- 🪐 Estou fazendo cursos na área de Análise de Dados
+- 💻 Atualmente trabalho na área de otimização 
+- 🪐 Estou fazendo cursos na área de Análise de Dados ee Machine Learning
 - 💠 Procuro contribuir com projetos em Data Science e Machine Learning
 
 <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -13,5 +13,5 @@ Aluno de graduação do curso de Física Médica procurando oportunidades para d
 
 
 ![GaNardelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaNardelli&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaNardelli&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaNardelli&layout=compact)
 
