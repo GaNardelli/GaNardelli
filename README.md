@@ -3,7 +3,7 @@
 Aluno de graduação do curso de Física Médica procurando oportunidades para desenvolver projetos na área de Machine Learning e Data Science.
 
 - 💻 Atualmente trabalho na área de otimização 
-- 🪐 Estou fazendo cursos na área de Análise de Dados ee Machine Learning
+- 🪐 Estou fazendo cursos na área de Análise de Dados e Machine Learning
 - 💠 Procuro contribuir com projetos em Data Science e Machine Learning
 
 <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
