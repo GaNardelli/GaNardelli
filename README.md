@@ -6,12 +6,22 @@ Sou assistente de desenvolvimento de sistemas no KaBuM! Sempre em buscas de nova
 - 🛠️ Desenvolvendo conhecimentos na área de Banco de dados relacionais e não relacionais
 - 💾 Em busca de pessoas para trocar conhecimentos e aprendizados!
 
-<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src = "https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"> <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white">
 
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/gabriel.vittinardelli) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gv_nardelli/)[<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gabriel-nardelli-2175a21a6/)
+<div style="display: inline-block">
+  <img width='30px' height='40px' alt='JS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width='30px' height='40px' alt='css' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img width='30px' height='40px' alt='html' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img width='30px' height='40px' alt='angularJs' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> 
+  <img width='30px' height='40px' alt='perl' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" />
+  <img width='30px' height='40px' alt='python' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width='30px' height='40px' alt='mysql' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />                
+<div/>
 
+![GaNardelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaNardelli&show_icons=true&theme=tokyonight)          
 
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/gabriel.vittinardelli) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gv_nardelli/)
+[<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gabriel-nardelli-2175a21a6/)
 
-![GaNardelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaNardelli&show_icons=true&theme=tokyonight)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
