@@ -21,7 +21,6 @@ Outside of coding, I'm into fitness, video production, and exploring new tech st
 
 ![GaNardelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaNardelli&show_icons=true&theme=tokyonight)          
 
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/gabriel.vittinardelli) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gv_nardelli/)
 [<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gabriel-nardelli-2175a21a6/)
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
