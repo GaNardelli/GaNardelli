@@ -1,11 +1,13 @@
-### Olá, sou o Gabriel Nardelli !!!
+### Hey! 👋 I'm Gabriel!
 
-Sou assistente de desenvolvimento de sistemas no KaBuM! Sempre em buscas de novas motivações e objetivos para aprender tecnologias e expandir conhecimentos na área da programação.
+A fullstack developer who enjoys building clean, scalable, and useful things on the web.  
+I mostly work with Angular + Python, love crafting efficient SQL queries, and I’m a big fan of Clean Architecture.
 
-- 💻 Em busca de tecnologias para aprimorar os conhecimentos e habilidades técnicas
-- 🛠️ Desenvolvendo conhecimentos na área de Banco de dados relacionais e não relacionais
-- 💾 Em busca de pessoas para trocar conhecimentos e aprendizados!
+I’ve been working at KaBuM!, one of Brazil’s biggest e-commerce companies, where I’ve helped launch their first physical store by integrating APIs, refactoring legacy systems, and optimizing backend services. I’ve also introduced automated testing practices and mentored new devs along the way.
 
+Before that, I developed dashboards for industrial automation at ATX Automation using Django and SQL, which gave me a solid base in real-world system design and documentation.
+
+Outside of coding, I'm into fitness, video production, and exploring new tech stacks. Always up for open-source collaborations and cool side projects. Let’s build something together 🚀
 
 <div style="display: inline-block">
   <img width='30px' height='40px' alt='JS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
