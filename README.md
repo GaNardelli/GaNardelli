@@ -1,7 +1,7 @@
 ### Hey! 👋 I'm Gabriel!
 
-A fullstack developer who enjoys building clean, scalable, and useful things on the web.  
-I mostly work with Angular + Python, love crafting efficient SQL queries, and I’m a big fan of Clean Architecture.
+A backend developer who enjoys building clean, scalable, and useful things on the web.  
+I mostly work with Perl and Python, love crafting efficient SQL queries, and I’m a big fan of Clean Architecture.
 
 I’ve been working at KaBuM!, one of Brazil’s biggest e-commerce companies, where I’ve helped launch their first physical store by integrating APIs, refactoring legacy systems, and optimizing backend services. I’ve also introduced automated testing practices and mentored new devs along the way.
 
