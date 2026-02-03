@@ -24,6 +24,6 @@ I am a backend engineer dedicated to building high-performance, maintainable, an
 ---
 
 ### 📫 Connect with me
-[LinkedIn](linkedin.com/in/gv-nardelli) | [Email](gv.nardelli@gmail.com)
+[LinkedIn]([Linkedin](https://www.linkedin.com/in/gv-nardelli)) | [Email](gv.nardelli@gmail.com)
 
 "Always up for open-source collaborations and building the next big thing in the Perl ecosystem." 
