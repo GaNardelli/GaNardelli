@@ -1,28 +1,29 @@
-### Hey! 👋 I'm Gabriel!
+# Hey! I'm Gabriel Vitti Nardelli
 
-A backend developer who enjoys building clean, scalable, and useful things on the web.  
-I mostly work with Perl and Python, love crafting efficient SQL queries, and I’m a big fan of Clean Architecture.
+### Senior-leaning Backend Developer | Perl & Python Enthusiast
 
-I’ve been working at KaBuM!, one of Brazil’s biggest e-commerce companies, where I’ve helped launch their first physical store by integrating APIs, refactoring legacy systems, and optimizing backend services. I’ve also introduced automated testing practices and mentored new devs along the way.
+I am a backend engineer dedicated to building high-performance, maintainable, and scalable distributed systems. My focus is on crafting elegant solutions for complex business logic, particularly within the e-commerce and fintech sectors.
 
-Before that, I developed dashboards for industrial automation at ATX Automation using Django and SQL, which gave me a solid base in real-world system design and documentation.
+---
 
-Outside of coding, I'm into fitness, video production, and exploring new tech stacks. Always up for open-source collaborations and cool side projects. Let’s build something together 🚀
+### 🛠 Tech Stack & Expertise
 
-<div style="display: inline-block">
-  <img width='30px' height='40px' alt='JS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width='30px' height='40px' alt='css' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img width='30px' height='40px' alt='html' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img width='30px' height='40px' alt='angularJs' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> 
-  <img width='30px' height='40px' alt='perl' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" />
-  <img width='30px' height='40px' alt='python' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width='30px' height='40px' alt='mysql' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />                
-<div/>
+* **Languages:** Perl (Modern Stack), Python (Django/Flask), SQL (PostgreSQL, MySQL).
+* **Perl Ecosystem:** Dancer2, Mojolicious, Catalyst, DBIx::Class (ORM), Test::More, Moo/Moose.
+* **Architectural Patterns:** Clean Architecture, Domain-Driven Design (DDD), SOLID principles, and ACID-compliant transaction management.
+* **Infrastructure & Tools:** Linux (Debian/Ubuntu), Docker, Redis, Git Bash, and integration with Java-based testing environments.
 
-![GaNardelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaNardelli&show_icons=true&theme=tokyonight)          
+---
 
-[<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gabriel-nardelli-2175a21a6/)
+### 📈 Professional Impact
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+* **Scalable E-commerce:** At **KaBuM!** (one of Brazil's largest e-commerce retailers), I played a key role in launching their first physical store. I refactored legacy Perl systems to optimize backend services and integrated high-traffic APIs.
+* **Quality Assurance:** Introduced automated testing practices in Perl environments, reducing regression bugs and improving deployment confidence.
+* **Industrial Precision:** Developed automation dashboards at ATX Automation using Django and SQL, focusing on real-world system design and rigorous documentation.
 
+---
 
+### 📫 Connect with me
+[LinkedIn]([SUA_URL_DO_LINKEDIN_AQUI](https://www.linkedin.com/in/gv-nardelli)) | [Email](gv.nardelli@gmail.com)
+
+"Always up for open-source collaborations and building the next big thing in the Perl ecosystem." 
